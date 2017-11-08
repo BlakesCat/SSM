@@ -648,7 +648,7 @@
 
                 <p class="hide nav-item" >>新闻数据分析</p>
                 <%--target="_blank"--%>
-                <a class="hide nav-item" href="/ssm/index.jsp" >快速预览</a>
+                <a class="hide nav-item" href="/SSM/index.jsp" >快速预览</a>
             </div>
         </div>
     </div>
